@@ -7,7 +7,7 @@ Files Desciption
 3. churn_localcontractor.csv: Input data (Structured data)
 4. Report.pdf: Report about model comparison  
 
-Members
+Members Contribution
 6220421004 Suwant Temviriyakul (20%)
 6220421005 Ratchanat Sangprasert (20%)
 6220421007 Manadda Jaruschaimongkol (20%)
