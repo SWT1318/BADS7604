@@ -8,7 +8,7 @@ Files Desciption
 4. Report.pdf: Model comparison and recommendation
 
 Members Contribution
-6220421004 Suwant Temviriyakul (20%)
+6220421004 Suwant Temviriyakul (20%) ทดลองหาจำนวนที่เหมาะสมของ Network Modeles Hidden Layer,Node รวมทั้งทดสอบTrain Models
 6220421005 Ratchanat Sangprasert (20%)
 6220421007 Manadda Jaruschaimongkol (20%)
 6220422017 Kittipan Pipatsattayanuwong (20%)
